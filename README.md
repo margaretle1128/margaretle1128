@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Margaret</h1>
 <h3 align="center">A passionate CS student at the intersection of coding and creativity</h3>
 
-- 🌱 I’m currently learning **MongoDB, NextJS**
+- 🌱 I’m currently learning **MongoDB, AWS**
 
 - 💬 Ask me about **HTML, CSS, JS, Java**
 
