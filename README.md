@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **margaretle1128@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1D0PZDaQn7HvDprMw9dh7oj5GqfsQmGZe/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tszmmP78FHtV7wNbRhEiBBfKSwWmTOfX/view?usp=sharing)
 
 - ⚡ Fun fact **I play League of Legends!**
 
