@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Margaret</h1>
 <h3 align="center">A passionate CS student at the intersection of coding and creativity</h3>
 
-- 🌱 I’m currently learning **MongoDB, AWS**
+- 🌱 I’m currently learning **Networking**
 
-- 💬 Ask me about **HTML, CSS, JS, Java**
+- 💬 Ask me about **HTML, CSS, JS, Java, React**
 
 - 📫 How to reach me **margaretle1128@gmail.com**
 
