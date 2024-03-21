@@ -6,6 +6,8 @@
 - 💬 Ask me about **HTML, CSS, JS, Java, React**
 
 - 📫 How to reach me **margaretle1128@gmail.com**
+  
+- 👨‍💻 All of my projects are available at [Portfolio](https://margaretle.vercel.app/)
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uFWMmh2HijNBMIAh2Wnz4T4KVIuYv-4w/view?usp=sharing)
 
