@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uFWMmh2HijNBMIAh2Wnz4T4KVIuYv-4w/view?usp=sharing)
 
-- ⚡ Fun fact **I play League of Legends!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/margaretle1128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="margaretle1128" height="30" width="40" /></a>
