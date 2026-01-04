@@ -9,7 +9,7 @@
   
 - 👨‍💻 All of my projects are available at [Portfolio](https://margaretle.vercel.app/)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12s9w-8Fehi9mQvW-BTBG_DmeFcLBD2PY/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1LuqS7WlPgrvPu3yycaUQizZH9fmOEmHZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
